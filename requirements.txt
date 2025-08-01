@@ -1,0 +1,60 @@
+# Jupyter + Script Syncing
+notebook
+ipykernel
+jupytext
+
+# Core Data Science Stack
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+tqdm
+
+# NLP and Sentiment Analysis
+nltk
+spacy
+textblob
+vaderSentiment
+transformers
+sentence-transformers
+
+# Web Scraping & News Ingestion
+requests
+beautifulsoup4
+selenium
+newspaper3k
+yfinance
+
+# Time Series + Statistical Analysis
+statsmodels
+prophet
+
+
+# Model Deployment
+flask
+gunicorn
+
+# Auto Documentation
+pdoc
+
+# Notebook Automation (optional)
+papermill
+
+# Visualization & Explainability
+shap
+plotly
+
+# LSTM/Deep Learning
+tensorflow
+keras
+
+# Other Utilities
+joblib
+python-dotenv
+jupyterlab
+black
+ruff
+pytest
+nbconvert
