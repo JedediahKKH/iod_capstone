@@ -1,0 +1,4 @@
+<a href='https://www.macrotrends.net/stocks/charts/TSLA/tesla/stock-price-history'>Source</a>
+
+
+https://ranaroussi.github.io/yfinance/
